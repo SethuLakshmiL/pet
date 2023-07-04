@@ -1,0 +1,37 @@
+@charset "ISO-8859-1";
+
+
+body{
+	background-image:url(shop.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+
+}
+h1{
+	color:green;
+	text-align:center;
+}
+h2{
+	color:red;
+	font-style:BOLD;
+	
+}
+
+a{
+	background-color:yellow;
+}
+.hi img{
+	float:right;
+	bottom:0px;
+	right:0px;
+}
+a:hover{
+	color:green;
+	font-size:50px;
+	background-color:pink;
+}
+.h{
+	float:left;
+}
+	
+
